@@ -35,5 +35,5 @@ print(binary_search(my_list, -1))
 # 1. We have a sorted list of 128 names, with binary search, whats the maximum number of steps it would take_snapshot?
 # A// 128 / 2 --> / 2 ..... 1 = 7
 
-# 2. Suppose we double the size of the list, maximum number of steps now?
-# A// 3
+# 2. Suppose we double the size of the list from question 1, maximum number of steps now?
+# A// 8
