@@ -1,6 +1,4 @@
 # Binary search according to grooking
-from tracemalloc import take_snapshot
-
 
 def binary_search(list, item):
     # low and high keep track of which part of the list we are searching
